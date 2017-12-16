@@ -18,7 +18,7 @@ Each network (model) will be trained base on CIFAR-10 dataset.The CIFAR-10 datas
 ### Results
 
 <p align="center">
-<img src="/Image/results.tiff">
+<img src="/Image/Results">
 </p>
 
 ### Requisites
