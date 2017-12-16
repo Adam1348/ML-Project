@@ -22,12 +22,12 @@ Each network (model) will be trained base on CIFAR-10 dataset.The CIFAR-10 datas
 </p>
 
 | Model  | Evaluate Error Rate <br> (20 epochs)  |
-|---|---|
-| Strided-CNN-C<!-- .element: style="text-align:center;" --> | 25.63%<!-- .element: style="text-align:center;" --> |
-| ConvPool-CNN-C<!-- .element: style="text-align:center;" --> | 22.07%<!-- .element: style="text-align:center;" --> |
-| ALL-CNN-C<!-- .element: style="text-align:center;" -->  | 26.08%<!-- .element: style="text-align:center;" --> |
-| Network In Network CNN<!-- .element: style="text-align:center;" -->  |  35.43%<!-- .element: style="text-align:center;" --> |
-| Ensemble<!-- .element: style="text-align:center;" --> | 19.15%<!-- .element: style="text-align:center;" --> |
+|---|:---:|
+| Strided-CNN-C | 25.63% |
+| ConvPool-CNN-C | 22.07% |
+| ALL-CNN-C  | 26.08% |
+| Network In Network CNN  |  35.43% |
+| Ensemble  | 19.15% |
 
 ### Requisites
 
