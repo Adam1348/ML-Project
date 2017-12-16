@@ -1,6 +1,6 @@
 # Simlpe Ensembling ConvNets
 
-After learning Convolution Neural Network in the class, we think that maybe we could use CNNs with different architecture models to work. That is the initial motivation of our project. In our project, we recreated four small ConvNets via reading some published papers. Then We calculated the error rate of validation to judge the models' performance and came out with the idea of combine them together to reduce the error rate.
+After learning Convolution Neural Network in the class, we think that maybe we could use CNNs with different architecture models to work. That is the initial motivation of our project. In our project, we recreated four small ConvNets via reading some published papers. Then We calculated the error rate of validation to judge the models' performance and came out with the idea of **ensemble them together to reduce the error rate**.
 
 <p align="center"> 
 <img src="/Image/Instruction.png">
